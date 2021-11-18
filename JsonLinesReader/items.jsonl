@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "name": "dynamite",
+  "category": "weapon"
+} {
+  "id": 2,
+  "name": "ham",
+  "category": "food"
+} {
+  "id": 3,
+  "name": "nail",
+  "category": "tool"
+}
